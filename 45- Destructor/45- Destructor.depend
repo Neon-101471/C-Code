@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1586292792 source:c:\users\saif\desktop\c++\c++ coding\45- destructor\main.cpp
+	<iostream>
+	"secondclass.h"
+	<conio.h>
+
+1586292607 c:\users\saif\desktop\c++\c++ coding\45- destructor\secondclass.h
+	"secondclass.h"
+
+1586293016 source:c:\users\saif\desktop\c++\c++ coding\45- destructor\secondclass.cpp
+	"secondclass.h"
+	<iostream>
+

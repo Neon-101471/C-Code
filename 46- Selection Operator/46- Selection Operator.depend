@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1586294242 source:c:\users\saif\desktop\c++\c++ coding\45- selection operator\selectop.cpp
+	"selectop.h"
+	<iostream>
+
+1586294242 c:\users\saif\desktop\c++\c++ coding\45- selection operator\selectop.h
+	"selectop.h"
+

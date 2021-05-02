@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1586100557 source:c:\users\saif\desktop\c++\c++ coding\bangladesh\bangladeshone.cpp
+	"bangladeshone.h"
+	<iostream>
+
+1586100557 c:\users\saif\desktop\c++\c++ coding\bangladesh\bangladeshone.h
+
+1586100648 source:c:\users\saif\desktop\c++\c++ coding\bangladesh\main.cpp
+	<iostream>
+	"bangladeshone.h"
+	<conio.h>
+
